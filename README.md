@@ -611,3 +611,4 @@ Finally, we will **modify the Game component’s render method from always rende
       const winner = calculateWinner(current.squares);
 
 If we click on any step in the game’s history, the tic-tac-toe board should immediately update to show what the board looked like after that step occurred.
+
